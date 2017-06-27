@@ -36,11 +36,12 @@ Google's Introduction to Web Accessibility - https://webaccessibility.withgoogle
 - Teach Access Tutorial! https://teachaccess.github.io/tutorial/
 - A11Y Style Guide https://github.com/cehfisher/a11y-style-guide
 
-# Videos
+# Educational Videos
 - A11ycasts with Rob Dodson - https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g
 - Debugging Accessibility with Alice Boxhall - https://www.youtube.com/watch?v=B9qzdVcIj5U&feature=youtu.be
 - Inclusive Design 24 - http://www.inclusivedesign24.org/
 - 3playmedia's Videos - http://www.3playmedia.com/resources/videos/
+- Marcy Sutton's Accessibility Presentations https://marcysutton.com/talks/
 
 # Thanks
 Appreciate all the links from [Jennifer Sutton](https://twitter.com/jsutt) and all the help she's given to me (and others in the community) over the years.
