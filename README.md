@@ -42,6 +42,7 @@ Google's Introduction to Web Accessibility - https://webaccessibility.withgoogle
 - Inclusive Design 24 - http://www.inclusivedesign24.org/
 - 3playmedia's Videos - http://www.3playmedia.com/resources/videos/
 - Marcy Sutton's Accessibility Presentations https://marcysutton.com/talks/
+- State of Texas Creating Accessible Microsoft Office Documents https://gov.texas.gov/organization/disabilities/accessibledocs
 
 # Thanks
 Appreciate all the links from [Jennifer Sutton](https://twitter.com/jsutt) and all the help she's given to me (and others in the community) over the years.
