@@ -43,4 +43,4 @@ Google's Introduction to Web Accessibility - https://webaccessibility.withgoogle
 - 3playmedia's Videos - http://www.3playmedia.com/resources/videos/
 
 # Thanks
-Appreciate all the links from Jennifer Sutton and all the help she's given to me (and others in the community) over the years.
+Appreciate all the links from [Jennifer Sutton](https://twitter.com/jsutt) and all the help she's given to me (and others in the community) over the years.
