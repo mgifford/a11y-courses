@@ -11,6 +11,13 @@ Courses offered in web accessibility.
 # Private (Paid)
 - WebAim's Web Accessibility Training http://webaim.org/training/
 - 4syllables's Accessibility for web writers - http://4syllables.com.au/training/web-writing-accessibility/
+- SSB Bart Group's Access University https://www.levelaccess.com/products/access-university/
+- Deque University https://www.deque.com/services/deque-university/
+
+# Conferences/Events
+- Knowbility's AccessU - https://www.knowbility.org/education/accessu/
+- CSUN Assistive Technology Conference - http://www.csun.edu/cod/conference
+- Environments for Humans' Accessibility Summit - http://environmentsforhumans.com/2017/accessu-summit/
 
 # Free
 - Google's Udacity Web Accessibility - Developing with Empathy - https://www.udacity.com/course/web-accessibility--ud891
@@ -21,6 +28,9 @@ Courses offered in web accessibility.
 - Future Learn - Digital Accessibility: Enabling Participation in the Information Society - https://www.futurelearn.com/courses/digital-accessibility
 Google's Introduction to Web Accessibility - https://webaccessibility.withgoogle.com/course
 
+# Webinars
+- 3playmedia's Webinars http://www.3playmedia.com/resources/webinars/
+
 # Tutorial Guides
 - Teach Access Tutorial! https://teachaccess.github.io/tutorial/
 - A11Y Style Guide https://github.com/cehfisher/a11y-style-guide
@@ -28,7 +38,8 @@ Google's Introduction to Web Accessibility - https://webaccessibility.withgoogle
 # Videos
 - A11ycasts with Rob Dodson - https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g
 - Debugging Accessibility with Alice Boxhall - https://www.youtube.com/watch?v=B9qzdVcIj5U&feature=youtu.be
-
+- Inclusive Design 24 - http://www.inclusivedesign24.org/
+- 3playmedia's Videos - http://www.3playmedia.com/resources/videos/
 
 # Thanks
 Appreciate all the links from Jennifer Sutton and all the help she's given to me (and others in the community) over the years.
