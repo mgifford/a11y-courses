@@ -5,11 +5,16 @@ Courses offered in web accessibility.
 - Central Washington University (CWU) is offering a program dedicated to increasing awareness for accessibility issues - http://www.cwu.edu/accessibility-studies/
 - Media Access Australia (W3C Member) and University of South Australia: Professional Certificate in Web Accessibility - https://www.mediaaccess.org.au/digitalaccessibilityservices/services/education-and-training/pcwa/
 - University of Illinois Information Accessibility Design and Policy (IADP) certificate program - https://online.illinois.edu/online-programs/graduate-certificates/information-accessibility-design-policy?iadp
+- Georgia Institute of Technology (GT) - The Center for Assistive Technology and Environmental Access - Web Accessibility Course - http://www.catea.gatech.edu/courses/web_accessibility/
+- Georgia Institute of Technology (GT) - Information and Communication Technology (ICT) Accessibility - https://www.edx.org/course/information-communication-technology-ict-gtx-ict100x
 
 # Private (Paid)
+- WebAim's Web Accessibility Training http://webaim.org/training/
+- 4syllables's Accessibility for web writers - http://4syllables.com.au/training/web-writing-accessibility/
 
 # Free
-- Google's @udacity on accessibility is now also available as a text version - https://developers.google.com/web/fundamentals/accessibility/
+- Google's Udacity Web Accessibility - Developing with Empathy - https://www.udacity.com/course/web-accessibility--ud891
+- Google's Udacity course on accessibility is now also available as a text version - https://developers.google.com/web/fundamentals/accessibility/
 - Free for public use! @UCBerkeley Intro to Course #Accessibility has 6 modules on designing accessible content - http://bit.ly/coursea11y
 - Professional Web #A11y Auditing Made Easy – a new online course developed by Ryerson University - https://de.ryerson.ca/wa/
 - Start Building Accessible Web Applications Today by Marcy Sutton - https://egghead.io/courses/start-building-accessible-web-applications-today
