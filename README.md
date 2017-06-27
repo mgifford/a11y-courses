@@ -5,6 +5,7 @@ Courses offered in web accessibility.
 - Central Washington University (CWU) is offering a program dedicated to increasing awareness for accessibility issues - http://www.cwu.edu/accessibility-studies/
 - Media Access Australia (W3C Member) and University of South Australia: Professional Certificate in Web Accessibility - https://www.mediaaccess.org.au/digitalaccessibilityservices/services/education-and-training/pcwa/
 - University of Illinois Information Accessibility Design and Policy (IADP) certificate program - https://online.illinois.edu/online-programs/graduate-certificates/information-accessibility-design-policy?iadp
+- University of Illinois DRES IT Accessibility Badging Program - http://disability.illinois.edu/academic-support/accessible-it-group/badging
 - Georgia Institute of Technology (GT) - The Center for Assistive Technology and Environmental Access - Web Accessibility Course - http://www.catea.gatech.edu/courses/web_accessibility/
 - Georgia Institute of Technology (GT) - Information and Communication Technology (ICT) Accessibility - https://www.edx.org/course/information-communication-technology-ict-gtx-ict100x
 
