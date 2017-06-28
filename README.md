@@ -45,4 +45,4 @@ Google's Introduction to Web Accessibility https://webaccessibility.withgoogle.c
 We've added books, tutorials & blogs here https://github.com/mgifford/a11y-courses/blob/master/Reading-Material.md
 
 # Thanks
-Appreciate all the links from [Jennifer Sutton](https://twitter.com/jsutt) and all the help she's given to me (and others in the community) over the years.
+Appreciate all the links from [Jennifer Sutton](https://twitter.com/jsutt) and all the help she's given to me (and others in the community) over the years. Also thanks to Alistair Duggin for his [list of resources](https://github.com/alphagov/accessibility-guidance/wiki/resources)
