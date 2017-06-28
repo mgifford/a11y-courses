@@ -34,11 +34,6 @@ Google's Introduction to Web Accessibility https://webaccessibility.withgoogle.c
 - 3playmedia http://www.3playmedia.com/resources/webinars/
 - Accessibility Association http://www.accessibilityassociation.org/content.asp?contentid=161
 
-# Tutorial Guides
-- Teach Access Tutorial! https://teachaccess.github.io/tutorial/
-- A11Y Style Guide https://github.com/cehfisher/a11y-style-guide
-- The A11Y Project http://a11yproject.com/
-
 # Educational Videos
 - A11ycasts with Rob Dodson https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g
 - Debugging Accessibility with Alice Boxhall https://www.youtube.com/watch?v=B9qzdVcIj5U&feature=youtu.be
