@@ -20,7 +20,7 @@ Courses offered in web accessibility.
 - Knowbility's AccessU https://www.knowbility.org/education/accessu/
 - CSUN Assistive Technology Conference http://www.csun.edu/cod/conference
 - Environments for Humans' Accessibility Summit http://environmentsforhumans.com/2017/accessu-summit/
-- Accessing Higher Ground Accessing Higher Ground
+- Accessing Higher Ground http://accessinghigherground.org 
 
 # Free
 - Google's Udacity Web Accessibility - Developing with Empathy https://www.udacity.com/course/web-accessibility--ud891
