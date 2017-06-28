@@ -7,9 +7,16 @@
 
 # Blogs
 - https://www.paciellogroup.com/blog/
+- http://www.karlgroves.com/blog/
 
+# Tutorial Guides
+- Teach Access Tutorial! https://teachaccess.github.io/tutorial/
+- A11Y Style Guide https://github.com/cehfisher/a11y-style-guide
+- The A11Y Project http://a11yproject.com/
 
-# Newsletters / Mailing Lists
+# Newsletters / Mailing Lists / Slack
 - http://a11yweekly.com/
 - https://groups.google.com/a/d.umn.edu/forum/?hl=en#!forum/webdev
 - http://webaim.org/discussion/
+- https://www.gov.uk/service-manual/communities/accessibility-community 
+- https://web-a11y.slack.com/messages/C042TSFGN/
