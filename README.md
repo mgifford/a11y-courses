@@ -41,5 +41,8 @@ Google's Introduction to Web Accessibility https://webaccessibility.withgoogle.c
 - 3playmedia's Videos http://www.3playmedia.com/resources/videos/
 - Marcy Sutton's Accessibility Presentations https://marcysutton.com/talks/
 
+# For More Information
+We've added books, tutorials & blogs here https://github.com/mgifford/a11y-courses/blob/master/Reading-Material.md
+
 # Thanks
 Appreciate all the links from [Jennifer Sutton](https://twitter.com/jsutt) and all the help she's given to me (and others in the community) over the years.
