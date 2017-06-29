@@ -31,6 +31,7 @@ Courses offered in web accessibility.
 
 
 ## Free
+- Teach Access https://teachaccess.github.io/tutorial/
 - Google's Udacity Web Accessibility - Developing with Empathy https://www.udacity.com/course/web-accessibility--ud891
 - Google's Udacity course on accessibility is now also available as a text version https://developers.google.com/web/fundamentals/accessibility/
 - Free for public use! @UCBerkeley Intro to Course #Accessibility has 6 modules on designing accessible content http://bit.ly/coursea11y
