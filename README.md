@@ -50,6 +50,13 @@ Google's Introduction to Web Accessibility https://webaccessibility.withgoogle.c
 - State of Texas Creating Accessible Microsoft Office Documents https://gov.texas.gov/organization/disabilities/accessibledocs
 
 
+## Meetups
+- Chicago Digital Accessibility and Inclusive Design https://www.meetup.com/a11ychi/
+- Seattle Area Accessibility & Inclusive Design https://www.meetup.com/a11ysea/
+- Boston Accessibility https://www.meetup.com/a11yBos/
+- role=drinks https://www.roledrinks.com/
+
+
 ### For More Information
 We've added books, tutorials & blogs here https://github.com/mgifford/a11y-courses/blob/master/Reading-Material.md
 
