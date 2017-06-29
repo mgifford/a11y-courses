@@ -56,10 +56,11 @@ Google's Introduction to Web Accessibility https://webaccessibility.withgoogle.c
 - Accessibility DC https://www.meetup.com/Accessibility-DC/
 - San Francisco https://www.meetup.com/a11ybay/
 - Seattle Area Accessibility & Inclusive Design https://www.meetup.com/a11ysea/
-- Montreal's web accessibility & inclusive design meetup - https://www.meetup.com/a11ymtl/
+- Montreal's web accessibility & inclusive design meetup https://www.meetup.com/a11ymtl/
 - Ottawa a11yYOW https://www.meetup.com/a11yOttawa
 - Toronto a11yTO https://www.meetup.com/a11yTo/
 - Quebec City a11yQC http://a11yqc.org/
+- Raleigh-Durham a11yRTP https://www.meetup.com/a11yRTP/
 - role=drinks https://www.roledrinks.com/
 
 
