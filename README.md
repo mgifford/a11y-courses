@@ -12,18 +12,18 @@ Courses offered in web accessibility.
 
 
 ## Private (Paid)
-- WebAim's Web Accessibility Training http://webaim.org/training/
 - 4syllables's Accessibility for web writers http://4syllables.com.au/training/web-writing-accessibility/
-- SSB Bart Group's Access University https://www.levelaccess.com/products/access-university/
-- Deque University https://www.deque.com/services/deque-university/
 - AccessIQ Professional Resources http://www.accessiq.org/professional-resources
+- Deque University https://www.deque.com/services/deque-university/
+- SSB Bart Group's Access University https://www.levelaccess.com/products/access-university/
+- WebAIM's Web Accessibility Training http://webaim.org/training/
 
 
 ## Conferences & Events
+- Accessing Higher Ground http://accessinghigherground.org 
 - Knowbility's AccessU https://www.knowbility.org/education/accessu/
 - CSUN Assistive Technology Conference http://www.csun.edu/cod/conference
 - Environments for Humans' Accessibility Summit http://environmentsforhumans.com/2017/accessu-summit/
-- Accessing Higher Ground http://accessinghigherground.org 
 - Inclusive Design 24 (#ID24) http://www.inclusivedesign24.org/
    - 2014 Playlist (YouTube) https://www.youtube.com/playlist?list=PL95LOQw9SLWzKYfjwmx6edsP1Exs83CKc
    - 2016 Playlist (YouTube) https://www.youtube.com/playlist?list=PL95LOQw9SLWxmcZtzBiFuT9HAJKFJnl2n
@@ -31,6 +31,7 @@ Courses offered in web accessibility.
 
 
 ## Free
+- Teach Access https://teachaccess.github.io/tutorial/
 - Google's Udacity Web Accessibility - Developing with Empathy https://www.udacity.com/course/web-accessibility--ud891
 - Google's Udacity course on accessibility is now also available as a text version https://developers.google.com/web/fundamentals/accessibility/
 - Free for public use! @UCBerkeley Intro to Course #Accessibility has 6 modules on designing accessible content http://bit.ly/coursea11y
@@ -46,25 +47,27 @@ Google's Introduction to Web Accessibility https://webaccessibility.withgoogle.c
 
 
 ## Educational Videos
+- 3playmedia's Videos http://www.3playmedia.com/resources/videos/
 - A11ycasts with Rob Dodson https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g
 - Debugging Accessibility with Alice Boxhall https://www.youtube.com/watch?v=B9qzdVcIj5U&feature=youtu.be
-- 3playmedia's Videos http://www.3playmedia.com/resources/videos/
 - Marcy Sutton's Accessibility Presentations https://marcysutton.com/talks/
 - State of Texas Creating Accessible Microsoft Office Documents https://gov.texas.gov/organization/disabilities/accessibledocs
 
 
-## Meetups - Also see this list maintained by [Deborah Edwards-Onoro](http://www.lireo.com/accessibility-inclusive-design-in-person-groups/)
+## Meetups
+Also see this list maintained by [Deborah Edwards-Onoro](http://www.lireo.com/accessibility-inclusive-design-in-person-groups/)
+
 - Boston Accessibility https://www.meetup.com/a11yBos/
 - Buffalo Accessibility Meet-up (Buffa11y) http://buffa11y.org 
 - Chicago Digital Accessibility and Inclusive Design https://www.meetup.com/a11ychi/
 - Accessibility DC https://www.meetup.com/Accessibility-DC/
-- San Francisco https://www.meetup.com/a11ybay/
-- Seattle Area Accessibility & Inclusive Design https://www.meetup.com/a11ysea/
 - Montreal's web accessibility & inclusive design meetup https://www.meetup.com/a11ymtl/
 - Ottawa a11yYOW https://www.meetup.com/a11yOttawa
-- Toronto a11yTO https://www.meetup.com/a11yTo/
 - Quebec City a11yQC http://a11yqc.org/
 - Raleigh-Durham a11yRTP https://www.meetup.com/a11yRTP/
+- San Francisco https://www.meetup.com/a11ybay/
+- Seattle Area Accessibility & Inclusive Design https://www.meetup.com/a11ysea/
+- Toronto a11yTO https://www.meetup.com/a11yTo/
 - role=drinks https://www.roledrinks.com/
 
 
