@@ -24,6 +24,10 @@ Courses offered in web accessibility.
 - CSUN Assistive Technology Conference http://www.csun.edu/cod/conference
 - Environments for Humans' Accessibility Summit http://environmentsforhumans.com/2017/accessu-summit/
 - Accessing Higher Ground http://accessinghigherground.org 
+- Inclusive Design 24 (#ID24) http://www.inclusivedesign24.org/
+   - 2014 Playlist (YouTube) https://www.youtube.com/playlist?list=PL95LOQw9SLWzKYfjwmx6edsP1Exs83CKc
+   - 2016 Playlist (YouTube) https://www.youtube.com/playlist?list=PL95LOQw9SLWxmcZtzBiFuT9HAJKFJnl2n
+   - 2017 Playlist (YouTube) https://www.youtube.com/playlist?list=PL95LOQw9SLWwqX2xoYidVO2YA7gknhmcx
 
 
 ## Free
@@ -44,7 +48,6 @@ Google's Introduction to Web Accessibility https://webaccessibility.withgoogle.c
 ## Educational Videos
 - A11ycasts with Rob Dodson https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g
 - Debugging Accessibility with Alice Boxhall https://www.youtube.com/watch?v=B9qzdVcIj5U&feature=youtu.be
-- Inclusive Design 24 http://www.inclusivedesign24.org/
 - 3playmedia's Videos http://www.3playmedia.com/resources/videos/
 - Marcy Sutton's Accessibility Presentations https://marcysutton.com/talks/
 - State of Texas Creating Accessible Microsoft Office Documents https://gov.texas.gov/organization/disabilities/accessibledocs
@@ -52,6 +55,7 @@ Google's Introduction to Web Accessibility https://webaccessibility.withgoogle.c
 
 ## Meetups - Also see this list maintained by [Deborah Edwards-Onoro](http://www.lireo.com/accessibility-inclusive-design-in-person-groups/)
 - Boston Accessibility https://www.meetup.com/a11yBos/
+- Buffalo Accessibility Meet-up (Buffa11y) http://buffa11y.org 
 - Chicago Digital Accessibility and Inclusive Design https://www.meetup.com/a11ychi/
 - Accessibility DC https://www.meetup.com/Accessibility-DC/
 - San Francisco https://www.meetup.com/a11ybay/
