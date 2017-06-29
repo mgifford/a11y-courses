@@ -53,7 +53,9 @@ Google's Introduction to Web Accessibility https://webaccessibility.withgoogle.c
 - State of Texas Creating Accessible Microsoft Office Documents https://gov.texas.gov/organization/disabilities/accessibledocs
 
 
-## Meetups - Also see this list maintained by [Deborah Edwards-Onoro](http://www.lireo.com/accessibility-inclusive-design-in-person-groups/)
+## Meetups
+Also see this list maintained by [Deborah Edwards-Onoro](http://www.lireo.com/accessibility-inclusive-design-in-person-groups/)
+
 - Boston Accessibility https://www.meetup.com/a11yBos/
 - Buffalo Accessibility Meet-up (Buffa11y) http://buffa11y.org 
 - Chicago Digital Accessibility and Inclusive Design https://www.meetup.com/a11ychi/
