@@ -70,10 +70,11 @@ Also see this list maintained by [Deborah Edwards-Onoro](http://www.lireo.com/ac
 - Toronto a11yTO https://www.meetup.com/a11yTo/
 - role=drinks https://www.roledrinks.com/
 
+## Vendor Materials
+- Chrome & Chrome OS Accessibility (on YouTube) https://www.youtube.com/playlist?list=PL5aqr5w5fRe7QWzXhqxrilIVduWEmLHM2
 
-### For More Information
+## For More Information
 We've added books, tutorials & blogs here https://github.com/mgifford/a11y-courses/blob/master/Reading-Material.md
-
 
 ### Thanks
 Appreciate all the links from [Jennifer Sutton](https://twitter.com/jsutt) and all the help she's given to me (and others in the community) over the years. Also thanks to Alistair Duggin for his [list of resources](https://github.com/alphagov/accessibility-guidance/wiki/resources)
