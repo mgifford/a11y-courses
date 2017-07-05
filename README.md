@@ -62,6 +62,7 @@ Also see this list maintained by [Deborah Edwards-Onoro](http://www.lireo.com/ac
 - Chicago Digital Accessibility and Inclusive Design https://www.meetup.com/a11ychi/
 - Accessibility DC https://www.meetup.com/Accessibility-DC/
 - Montreal's web accessibility & inclusive design meetup https://www.meetup.com/a11ymtl/
+- New York City A11yNYC http://a11ynyc.com/
 - Ottawa a11yYOW https://www.meetup.com/a11yOttawa
 - Quebec City a11yQC http://a11yqc.org/
 - Raleigh-Durham a11yRTP https://www.meetup.com/a11yRTP/
