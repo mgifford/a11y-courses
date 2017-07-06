@@ -52,6 +52,7 @@ Google's Introduction to Web Accessibility https://webaccessibility.withgoogle.c
 - Debugging Accessibility with Alice Boxhall https://www.youtube.com/watch?v=B9qzdVcIj5U&feature=youtu.be
 - Marcy Sutton's Accessibility Presentations https://marcysutton.com/talks/
 - State of Texas Creating Accessible Microsoft Office Documents https://gov.texas.gov/organization/disabilities/accessibledocs
+- Making a Web Form Accessible (Pluralsight) - https://www.pluralsight.com/courses/web-form-accessible
 
 
 ## Meetups
