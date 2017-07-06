@@ -6,12 +6,14 @@ Blogs, books and additional resources primarily focused on accessibility.
 - A Web for Everyone http://rosenfeldmedia.com/books/a-web-for-everyone/
 - Just Ask: Integrating Accessibility Throughout Design http://uiaccess.com/accessucd/
 - Inclusive Front-End Design Patterns https://www.smashingmagazine.com/inclusive-design-patterns/
+- Apps For All: Coding Accessible Web Applications https://shop.smashingmagazine.com/products/apps-for-all
 
 
 ## Blogs
-- https://www.paciellogroup.com/blog/
-- http://www.karlgroves.com/blog/
-- http://adrianroselli.com/tag/accessibility
+- https://www.paciellogroup.com/blog/  
+- http://www.karlgroves.com/blog/  
+- http://adrianroselli.com/tag/accessibility  
+- https://a11ywins.tumblr.com/  
 
 
 ## Tutorial Guides
@@ -21,6 +23,10 @@ Blogs, books and additional resources primarily focused on accessibility.
 - The A11Y Project http://a11yproject.com/
 - Inclusive Components Club by Heydon Pickering http://inclusive-components.club/
 - Inclusive Design Principles http://inclusivedesignprinciples.org/
+
+
+## Guidelines  
+- VOX Media Accessibility Guidelines http://accessibility.voxmedia.com/
 
 
 ## Newsletters / Mailing Lists / Slack
