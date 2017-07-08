@@ -1,7 +1,6 @@
 # Accessibility Courses
 Courses offered in web accessibility.
 
-
 ## University (Paid)
 - Central Washington University (CWU) is offering a program dedicated to increasing awareness for accessibility issues  http://www.cwu.edu/accessibility-studies/
 - Media Access Australia (W3C Member) and University of South Australia: Professional Certificate in Web Accessibility  https://www.mediaaccess.org.au/digitalaccessibilityservices/services/education-and-training/pcwa/ & http://www.unisa.edu.au/education-arts-and-social-sciences/communication-international-studies-and-languages/pcwa/
@@ -10,14 +9,12 @@ Courses offered in web accessibility.
 - Georgia Institute of Technology (GT) - The Center for Assistive Technology and Environmental Access Web Accessibility Course - http://www.catea.gatech.edu/courses/web_accessibility/
 - Georgia Institute of Technology (GT) - Information and Communication Technology (ICT) Accessibility https://www.edx.org/course/information-communication-technology-ict-gtx-ict100x
 
-
 ## Private (Paid)
 - 4syllables's Accessibility for web writers http://4syllables.com.au/training/web-writing-accessibility/
 - AccessIQ Professional Resources http://www.accessiq.org/professional-resources
 - Deque University https://www.deque.com/services/deque-university/
 - SSB Bart Group's Access University https://www.levelaccess.com/products/access-university/
 - WebAIM's Web Accessibility Training http://webaim.org/training/
-
 
 ## Conferences & Events
 - Accessing Higher Ground http://accessinghigherground.org 
@@ -29,22 +26,19 @@ Courses offered in web accessibility.
    - 2016 Playlist (YouTube) https://www.youtube.com/playlist?list=PL95LOQw9SLWxmcZtzBiFuT9HAJKFJnl2n
    - 2017 Playlist (YouTube) https://www.youtube.com/playlist?list=PL95LOQw9SLWwqX2xoYidVO2YA7gknhmcx
 
-
 ## Free
 - Teach Access https://teachaccess.github.io/tutorial/
 - Google's Udacity Web Accessibility - Developing with Empathy https://www.udacity.com/course/web-accessibility--ud891
 - Google's Udacity course on accessibility is now also available as a text version https://developers.google.com/web/fundamentals/accessibility/
+- Google's Introduction to Web Accessibility https://webaccessibility.withgoogle.com/course
 - Free for public use! @UCBerkeley Intro to Course #Accessibility has 6 modules on designing accessible content http://bit.ly/coursea11y
 - Professional Web #A11y Auditing Made Easy – a new online course developed by Ryerson University https://de.ryerson.ca/wa/
 - Start Building Accessible Web Applications Today by Marcy Sutton - https://egghead.io/courses/start-building-accessible-web-applications-today
 - Future Learn - Digital Accessibility: Enabling Participation in the Information Society https://www.futurelearn.com/courses/digital-accessibility
-Google's Introduction to Web Accessibility https://webaccessibility.withgoogle.com/course
-
 
 ## Webinars
 - 3playmedia http://www.3playmedia.com/resources/webinars/
 - Accessibility Association http://www.accessibilityassociation.org/content.asp?contentid=161
-
 
 ## Educational Videos
 - 3playmedia's Videos http://www.3playmedia.com/resources/videos/
@@ -53,7 +47,6 @@ Google's Introduction to Web Accessibility https://webaccessibility.withgoogle.c
 - Marcy Sutton's Accessibility Presentations https://marcysutton.com/talks/
 - State of Texas Creating Accessible Microsoft Office Documents https://gov.texas.gov/organization/disabilities/accessibledocs
 - Making a Web Form Accessible (Pluralsight) - https://www.pluralsight.com/courses/web-form-accessible
-
 
 ## Meetups
 Also see this list maintained by [Deborah Edwards-Onoro](http://www.lireo.com/accessibility-inclusive-design-in-person-groups/)
