@@ -60,7 +60,7 @@ Courses offered in web accessibility.
 
 
 ## Meetups  
-Also refer to this list maintained by [Deborah Edwards-Onoro](http://www.lireo.com/accessibility-inclusive-design-in-person-groups/)  
+Also refer to this [other meetup list](http://www.lireo.com/accessibility-inclusive-design-in-person-groups/) maintained by Deborah Edwards-Onoro.
 
 - [Boston Accessibility](https://www.meetup.com/a11yBos/)  
 - [Buffalo Accessibility Meet-up (Buffa11y)](http://buffa11y.org)  
