@@ -8,10 +8,9 @@ Courses offered in web accessibility.
 - [University of South Australia: Professional Certificate in Web Accessibility](http://www.unisa.edu.au/education-arts-and-social-sciences/communication-international-studies-and-languages/pcwa/)  
 - [University of Illinois Information Accessibility Design and Policy (IADP): Certificate Program](https://online.illinois.edu/online-programs/graduate-certificates/information-accessibility-design-policy?iadp)  
 - [University of Illinois DRES IT Accessibility Badging Program](http://disability.illinois.edu/academic-support/accessible-it-group/badging)  
-- [Georgia Institute of Technology (GT)](http://www.catea.gatech.edu/courses/web_accessibility/)  
-  The Center for Assistive Technology and Environmental Access Web Accessibility Course  
-- [Georgia Institute of Technology (GT)](https://www.edx.org/course/information-communication-technology-ict-gtx-ict100x)  
-  Information and Communication Technology (ICT) Accessibility  
+- Georgia Institute of Technology (GT)  
+  - [GT: The Center for Assistive Technology and Environmental Access Web Accessibility Course](http://www.catea.gatech.edu/courses/web_accessibility/)  
+  - [GT: Information and Communication Technology (ICT) Accessibility](https://www.edx.org/course/information-communication-technology-ict-gtx-ict100x)  
 
 
 ## Private (Paid)
@@ -61,7 +60,7 @@ Courses offered in web accessibility.
 
 
 ## Meetups  
-Also see this list maintained by [Deborah Edwards-Onoro](http://www.lireo.com/accessibility-inclusive-design-in-person-groups/)  
+Also refer to this list maintained by [Deborah Edwards-Onoro](http://www.lireo.com/accessibility-inclusive-design-in-person-groups/)  
 
 - [Boston Accessibility](https://www.meetup.com/a11yBos/)  
 - [Buffalo Accessibility Meet-up (Buffa11y)](http://buffa11y.org)  
