@@ -18,7 +18,8 @@ Courses offered in web accessibility.
 - [AccessIQ Professional Resources](http://www.accessiq.org/professional-resources)  
 - [Deque University](https://www.deque.com/services/deque-university/)  
 - [SSB Bart Group's Access University](https://www.levelaccess.com/products/access-university/)  
-- [WebAIM's Web Accessibility Training](http://webaim.org/training/)  
+- [WebAIM's Web Accessibility Training](http://webaim.org/training/) 
+- [Meeting Web Accessibility Guidelines (Section 508/ WCAG 2.0)](https://www.pluralsight.com/courses/web-accessibility-meeting-guidelines) 
 
 
 ## Conferences & Events
