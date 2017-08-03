@@ -6,12 +6,12 @@ Courses offered in web accessibility.
   Program dedicated to increasing awareness for accessibility issues  
 - [Media Access Australia (W3C Member): **Professional Certificate** in Web Accessibility](https://www.mediaaccess.org.au/digitalaccessibilityservices/services/education-and-training/pcwa/)
 - [Mohawk College: **Ontario College Graduate Certificate** in Accessible Media Production](https://www.mohawkcollege.ca/programs/graduate-studies/accessible-media-production-390)
-- [University of South Australia: Professional Certificate in Web Accessibility](http://www.unisa.edu.au/education-arts-and-social-sciences/communication-international-studies-and-languages/pcwa/)  
-- [University of Illinois Information Accessibility Design and Policy (IADP): Certificate Program](https://online.illinois.edu/online-programs/graduate-certificates/information-accessibility-design-policy?iadp)  
+- [University of South Australia: **Professional Certificate** in Web Accessibility](http://www.unisa.edu.au/education-arts-and-social-sciences/communication-international-studies-and-languages/pcwa/)  
+- [University of Illinois Information Accessibility Design and Policy (IADP): **Certificate Program**](https://online.illinois.edu/online-programs/graduate-certificates/information-accessibility-design-policy?iadp)  
 - [University of Illinois DRES IT Accessibility Badging Program](http://disability.illinois.edu/academic-support/accessible-it-group/badging)  
 - Georgia Institute of Technology (GT)  
-  - [GT: The Center for Assistive Technology and Environmental Access Web Accessibility Course](http://www.catea.gatech.edu/courses/web_accessibility/)  
-  - [GT: Information and Communication Technology (ICT) Accessibility](https://www.edx.org/course/information-communication-technology-ict-gtx-ict100x)  
+  - [GT: The Center for Assistive Technology and Environmental Access Web Accessibility Course](https://catea.gatech.edu/classes)  
+  - [GT: Information and Communication Technology (ICT) Accessibility **Verified Certificate**](https://www.edx.org/course/information-communication-technology-ict-gtx-ict100x)  
 
 
 ## Private (Paid)
