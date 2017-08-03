@@ -4,7 +4,8 @@ Courses offered in web accessibility.
 ## University (Paid)
 - [Central Washington University (CWU)](http://www.cwu.edu/accessibility-studies/)  
   Program dedicated to increasing awareness for accessibility issues  
-- [Media Access Australia (W3C Member): Professional Certificate in Web Accessibility](https://www.mediaaccess.org.au/digitalaccessibilityservices/services/education-and-training/pcwa/)  
+- [Media Access Australia (W3C Member): **Professional Certificate** in Web Accessibility](https://www.mediaaccess.org.au/digitalaccessibilityservices/services/education-and-training/pcwa/)
+- [Mohawk College: **Ontario College Graduate Certificate** in Accessible Media Production](https://www.mohawkcollege.ca/programs/graduate-studies/accessible-media-production-390)
 - [University of South Australia: Professional Certificate in Web Accessibility](http://www.unisa.edu.au/education-arts-and-social-sciences/communication-international-studies-and-languages/pcwa/)  
 - [University of Illinois Information Accessibility Design and Policy (IADP): Certificate Program](https://online.illinois.edu/online-programs/graduate-certificates/information-accessibility-design-policy?iadp)  
 - [University of Illinois DRES IT Accessibility Badging Program](http://disability.illinois.edu/academic-support/accessible-it-group/badging)  
@@ -60,7 +61,7 @@ Courses offered in web accessibility.
 - [Pluralsight - Making a Web Form Accessible](https://www.pluralsight.com/courses/web-form-accessible)  
 
 
-## Meetups  
+## Meetups
 Also refer to this [other meetup list](http://www.lireo.com/accessibility-inclusive-design-in-person-groups/) maintained by Deborah Edwards-Onoro.
 
 - [Boston Accessibility](https://www.meetup.com/a11yBos/)  
@@ -76,6 +77,12 @@ Also refer to this [other meetup list](http://www.lireo.com/accessibility-inclus
 - [Seattle Area Accessibility & Inclusive Design](https://www.meetup.com/a11ysea/)  
 - [Toronto a11yTO](https://www.meetup.com/a11yTo/)  
 - [role=drinks](https://www.roledrinks.com/)  
+
+## Certificates
+- [Media Access Australia (W3C Member): Professional Certificate in Web Accessibility](https://www.mediaaccess.org.au/digitalaccessibilityservices/services/education-and-training/pcwa/)
+- [Mohawk College: Ontario College Graduate Certificate in Accessible Media Production](https://www.mohawkcollege.ca/programs/graduate-studies/accessible-media-production-390)
+- [International Association of Accessibility Professionals (IAAP) Certification](http://www.accessibilityassociation.org/certification)
+
 
 ## Vendor Materials
 - [Chrome & Chrome OS Accessibility (on YouTube)](https://www.youtube.com/playlist?list=PL5aqr5w5fRe7QWzXhqxrilIVduWEmLHM2)  
