@@ -9,9 +9,7 @@ Courses offered in web accessibility.
 - [University of South Australia: **Professional Certificate** in Web Accessibility](http://www.unisa.edu.au/education-arts-and-social-sciences/communication-international-studies-and-languages/pcwa/)  
 - [University of Illinois Information Accessibility Design and Policy (IADP): **Certificate Program**](https://online.illinois.edu/online-programs/graduate-certificates/information-accessibility-design-policy?iadp)  
 - [University of Illinois DRES IT Accessibility Badging Program](http://disability.illinois.edu/academic-support/accessible-it-group/badging)  
-- Georgia Institute of Technology (GT)  
-  - [GT: The Center for Assistive Technology and Environmental Access Web Accessibility Course](https://catea.gatech.edu/classes)  
-  - [GT: Information and Communication Technology (ICT) Accessibility **Verified Certificate**](https://www.edx.org/course/information-communication-technology-ict-gtx-ict100x)  
+- [Georgia Institute of Technology: Information and Communication Technology (ICT) Accessibility **Verified Certificate**](https://www.edx.org/course/information-communication-technology-ict-gtx-ict100x)  
 
 
 ## Private (Paid)
