@@ -76,6 +76,7 @@ Also refer to this [other meetup list](http://www.lireo.com/accessibility-inclus
 - [Toronto a11yTO](https://www.meetup.com/a11yTo/)  
 - [role=drinks](https://www.roledrinks.com/)  
 
+
 ## Certificates
 - [Media Access Australia (W3C Member): Professional Certificate in Web Accessibility](https://www.mediaaccess.org.au/digitalaccessibilityservices/services/education-and-training/pcwa/)
 - [Mohawk College: Ontario College Graduate Certificate in Accessible Media Production](https://www.mohawkcollege.ca/programs/graduate-studies/accessible-media-production-390)
@@ -85,8 +86,10 @@ Also refer to this [other meetup list](http://www.lireo.com/accessibility-inclus
 ## Vendor Materials
 - [Chrome & Chrome OS Accessibility (on YouTube)](https://www.youtube.com/playlist?list=PL5aqr5w5fRe7QWzXhqxrilIVduWEmLHM2)  
 
+
 ## For More Information
 [We've added books, tutorials & blogs here](https://github.com/mgifford/a11y-courses/blob/master/Reading-Material.md)  
+
 
 ### Thanks
 Appreciate all the links from [Jennifer Sutton](https://twitter.com/jsutt) and all the help she's given to me (and others in the community) over the years. Also thanks to Alistair Duggin for his [list of resources](https://github.com/alphagov/accessibility-guidance/wiki/resources)
