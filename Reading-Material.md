@@ -11,11 +11,15 @@ Blogs, books, and additional resources primarily focused on accessibility.
 
 ## Blogs
 - [a11y wins](https://a11ywins.tumblr.com/)  
-- [Adrian Roselli](http://adrianroselli.com/tag/accessibility)  
+- [Adrian Roselli](http://adrianroselli.com/tag/accessibility)
+- [Deque Systems](https://www.deque.com/blog)
 - [Karl Groves](http://www.karlgroves.com/blog/)  
+- [Leonie Watson](https://tink.uk/)
+- [Level Access](https://www.levelaccess.com/blog/)
 - [Simply Accessible](http://simplyaccessible.com/articles/)
 - [The Paciello Group](https://www.paciellogroup.com/blog/)  
-- [WebAIM](http://webaim.org/blog/)  
+- [WebAIM](http://webaim.org/blog/)
+- [Web Axe](http://webaxe.org/)  
 
 
 ## Tutorials & Guides
@@ -40,5 +44,5 @@ Blogs, books, and additional resources primarily focused on accessibility.
 - [W3C a11ySlackers](https://gitter.im/w3c/a11ySlackers)  
   A bridge from Slack because Slack is inaccessible
 - [web-a11y Slack Channel](https://web-a11y.slack.com/messages/C042TSFGN/)  
-- [WebAIM Web Accessibility E-mail Discussion List]()http://webaim.org/discussion/
+- [WebAIM Web Accessibility E-mail Discussion List](http://webaim.org/discussion/)
 
