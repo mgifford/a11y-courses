@@ -2,8 +2,8 @@
 Blogs, books and additional resources primarily focused on accessibility.
 
 
-## Books 
-- [A Web for Everyone](http://rosenfeldmedia.com/books/a-web-for-everyone/) 
+## Books
+- [A Web for Everyone](http://rosenfeldmedia.com/books/a-web-for-everyone/)
 - [Just Ask: Integrating Accessibility Throughout Design](http://uiaccess.com/accessucd/)  
 - [Inclusive Front-End Design Patterns](https://www.smashingmagazine.com/inclusive-design-patterns/)  
 - [Apps For All: Coding Accessible Web Applications](https://shop.smashingmagazine.com/products/apps-for-all)  
@@ -15,6 +15,7 @@ Blogs, books and additional resources primarily focused on accessibility.
 - [Adrian Roselli](http://adrianroselli.com/tag/accessibility)  
 - [WebAIM](http://webaim.org/blog/)  
 - [a11y wins](https://a11ywins.tumblr.com/)  
+- [Simply Accessible](http://simplyaccessible.com/articles/)
 
 
 ## Tutorial Guides
