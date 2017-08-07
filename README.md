@@ -67,6 +67,7 @@ Also refer to this [other meetup list](http://www.lireo.com/accessibility-inclus
 - [Chicago Digital Accessibility and Inclusive Design](https://www.meetup.com/a11ychi/)  
 - [Accessibility DC](https://www.meetup.com/Accessibility-DC/)  
 - [Montreal's web accessibility & inclusive design meet-up](https://www.meetup.com/a11ymtl/)  
+- [Mid-MO Web Accessibility Meetup](https://www.facebook.com/groups/1981893992043062/)
 - [New York City A11yNYC](http://a11ynyc.com/)  
 - [Ottawa a11yYOW](https://www.meetup.com/a11yOttawa)  
 - [Quebec City a11yQC](http://a11yqc.org/)  
