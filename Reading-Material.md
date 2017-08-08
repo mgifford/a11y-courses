@@ -35,14 +35,11 @@ Blogs, books, and additional resources primarily focused on accessibility.
 - [VOX Media Accessibility Guidelines](http://accessibility.voxmedia.com/)  
 
 
-## Newsletters / Mailing Lists / Slack & Social Media
+## Newsletters / Mailing Lists / Slack
 - [a11y weekly](http://a11yweekly.com/)  
 - [gov.uk Accessibility Community](https://www.gov.uk/service-manual/communities/accessibility-community)  
 - [The Web Design Update](https://groups.google.com/a/d.umn.edu/forum/?hl=en#!forum/webdev)  
-- [Top People To Follow in Web Accessibility](https://github.com/joe-watkins/top-people-to-follow-in-web-accessibility)  
-  A listing of individual, company, and organization a11y-focused Twitter accounts  
 - [W3C a11ySlackers](https://gitter.im/w3c/a11ySlackers)  
   A bridge from Slack because Slack is inaccessible
 - [web-a11y Slack Channel](https://web-a11y.slack.com/messages/C042TSFGN/)  
 - [WebAIM Web Accessibility E-mail Discussion List](http://webaim.org/discussion/)
-
