@@ -89,7 +89,8 @@ Also refer to this [other meetup list](http://www.lireo.com/accessibility-inclus
 
 
 ## For More Information
-[We've added books, tutorials & blogs here](https://github.com/mgifford/a11y-courses/blob/master/Reading-Material.md)  
+- [We've added books, tutorials & blogs here](https://github.com/mgifford/a11y-courses/blob/master/Reading-Material.md)
+- [Follow these people on Twitter](https://github.com/joe-watkins/top-people-to-follow-in-web-accessibility)
 
 
 ### Thanks
