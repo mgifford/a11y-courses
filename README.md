@@ -1,5 +1,5 @@
 # Accessibility Courses
-Courses offered in web accessibility.
+Courses, webinars, educational videos, and more, offered in web accessibility.
 
 ## University (Paid)
 - [Central Washington University (CWU)](http://www.cwu.edu/accessibility-studies/)  
