@@ -94,4 +94,4 @@ Also refer to this [other meetup list](http://www.lireo.com/accessibility-inclus
 
 
 ### Thanks
-Appreciate all the links from [Jennifer Sutton](https://twitter.com/jsutt) and all the help she's given to me (and others in the community) over the years. Also thanks to Alistair Duggin for his [list of resources](https://github.com/alphagov/accessibility-guidance/wiki/resources)
+Appreciate all the links from [Jennifer Sutton](https://twitter.com/jsutt) and all the help she's given to me (and others in the community) over the years. Also thanks to [Alistair Duggin](https://twitter.com/dugboticus) for his [list of resources](https://github.com/alphagov/accessibility-guidance/wiki/resources)
