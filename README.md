@@ -16,7 +16,8 @@ Courses offered in web accessibility.
 - [4syllables's Accessibility for web writers](http://4syllables.com.au/training/web-writing-accessibility/)  
 - [AccessIQ Professional Resources](http://www.accessiq.org/professional-resources)  
 - [Deque University](https://www.deque.com/services/deque-university/)  
-- [Pluralsight - Meeting Web Accessibility Guidelines (Section 508/ WCAG 2.0)](https://www.pluralsight.com/courses/web-accessibility-meeting-guidelines)
+- [Pluralsight - Making a Web Form Accessible](https://www.pluralsight.com/courses/web-form-accessible)  
+- [Pluralsight - Meeting Web Accessibility Guidelines (Section 508/ WCAG 2.0)](https://www.pluralsight.com/courses/web-accessibility-meeting-guidelines)  
 - [SSB Bart Group's Access University](https://www.levelaccess.com/products/access-university/)  
 - [WebAIM's Web Accessibility Training](http://webaim.org/training/)  
 - [UX Foundations: Accessibility](https://www.lynda.com/Accessibility-tutorials/Foundations-UX-Accessibility/435008-2.html)  
@@ -57,7 +58,6 @@ Courses offered in web accessibility.
 - [Debugging Accessibility with Alice Boxhall](https://www.youtube.com/watch?v=B9qzdVcIj5U&feature=youtu.be)  
 - [Marcy Sutton's Accessibility Presentations](https://marcysutton.com/talks/)  
 - [State of Texas Creating Accessible Microsoft Office Documents](https://gov.texas.gov/organization/disabilities/accessibledocs)  
-- [Pluralsight - Making a Web Form Accessible](https://www.pluralsight.com/courses/web-form-accessible)  
 
 
 ## Meetups
