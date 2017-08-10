@@ -19,6 +19,7 @@ Courses offered in web accessibility.
 - [Pluralsight - Meeting Web Accessibility Guidelines (Section 508/ WCAG 2.0)](https://www.pluralsight.com/courses/web-accessibility-meeting-guidelines)
 - [SSB Bart Group's Access University](https://www.levelaccess.com/products/access-university/)  
 - [WebAIM's Web Accessibility Training](http://webaim.org/training/)  
+- [UX Foundations: Accessibility](https://www.lynda.com/Accessibility-tutorials/Foundations-UX-Accessibility/435008-2.html)  
 
 
 ## Conferences & Events
