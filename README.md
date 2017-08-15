@@ -18,7 +18,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 - [Deque University](https://www.deque.com/services/deque-university/)  
 - [Pluralsight - Making a Web Form Accessible](https://www.pluralsight.com/courses/web-form-accessible)  
 - [Pluralsight - Meeting Web Accessibility Guidelines (Section 508/ WCAG 2.0)](https://www.pluralsight.com/courses/web-accessibility-meeting-guidelines)  
-- [SSB Bart Group's Access University](https://www.levelaccess.com/products/access-university/)  
+- [Level Access (previously SSB Bart Group) - Access University](https://www.levelaccess.com/products/access-university/)  
 - [WebAIM's Web Accessibility Training](http://webaim.org/training/)  
 - [UX Foundations: Accessibility](https://www.lynda.com/Accessibility-tutorials/Foundations-UX-Accessibility/435008-2.html)  
 
