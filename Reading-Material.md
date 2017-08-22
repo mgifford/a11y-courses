@@ -31,7 +31,8 @@ Blogs, books, and additional resources primarily focused on accessibility.
 - [W3C Tutorials](http://www.w3.org/WAI/tutorials/)  
 
 
-## Guidelines  
+## Guidelines & Checklists  
+- [IBM Accessibility Checklist](https://www-03.ibm.com/able/guidelines/ci162/accessibility_checklist.html)  
 - [VOX Media Accessibility Guidelines](http://accessibility.voxmedia.com/)  
 
 
