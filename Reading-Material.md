@@ -5,9 +5,18 @@ Blogs, books, and additional resources primarily focused on accessibility.
 ## Books
 - [A Web for Everyone](http://rosenfeldmedia.com/books/a-web-for-everyone/)
 - [Just Ask: Integrating Accessibility Throughout Design](http://uiaccess.com/accessucd/)  
-- [Inclusive Front-End Design Patterns](https://www.smashingmagazine.com/inclusive-design-patterns/)  
-- [Apps For All: Coding Accessible Web Applications](https://shop.smashingmagazine.com/products/apps-for-all)  
-
+- [Inclusive Front-End Design Patterns](https://www.smashingmagazine.com/inclusive-design-patterns/) by Heydon Pickering
+- [Apps For All: Coding Accessible Web Applications](https://shop.smashingmagazine.com/products/apps-for-all) by Heydon Pickering
+- [Disability, Human Rights, and Information Technology](http://www.upenn.edu/pennpress/book/15640.html) 
+- [Strategic IT Accessibility: Enabling the Organization](http://www.strategicaccessibility.com/)
+- [Structured Negotiation: A Winning Alternative to Lawsuits](https://shop.americanbar.org/eBus/Store/ProductDetails.aspx?productId=254116970&term=lainey%20feingold)
+- [Accessibility for Everyone](https://abookapart.com/products/accessibility-for-everyone) by Laura Kalbag
+- [Color Accessibility Workflows](https://abookapart.com/products/color-accessibility-workflows) by Geri Coady
+- [Design for Real Life](https://abookapart.com/products/design-for-real-life) by Eric Meyer & Sara Wachter-Boettcher 
+- [Just Ask: Integrating Accessibility Throughout Design](http://www.uiaccess.com/accessucd/) 
+- [iOS Accessibility Handbook](https://leanpub.com/iosaccessibility) by Luis Abreu
+- [Ensuring Digital Accessibility through Process and Policy](https://www.elsevier.com/books/ensuring-digital-accessibility-through-process-and-policy/lazar/978-0-12-800646-7) by Jonathan Lazar Daniel Goldstein Anne Taylor
+- [Digital Outcasts: Moving Technology Forward without Leaving People Behind](http://digital-outcasts.com/) by Kel Smith 
 
 ## Blogs
 - [a11y wins](https://a11ywins.tumblr.com/)  
