@@ -46,6 +46,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 - [@UCBerkeley Intro to Course #Accessibility](http://bit.ly/coursea11y)  
   6 modules on designing accessible content  
 - [Microsoft's Training teachers to author accessible content ](https://education.microsoft.com/courses-and-resources/courses/training-teachers-to-author-accessible-content)
+- [The Accessibility MOOC](http://accessibility.mrooms.net/#a11y) - Inclusive Online Course Design
 
 
 ## Webinars  
