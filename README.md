@@ -31,7 +31,8 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 - [Inclusive Design 24 (#ID24)](http://www.inclusivedesign24.org/)  
    - [2014 Playlist (YouTube)](https://www.youtube.com/playlist?list=PL95LOQw9SLWzKYfjwmx6edsP1Exs83CKc)  
    - [2016 Playlist (YouTube)](https://www.youtube.com/playlist?list=PL95LOQw9SLWxmcZtzBiFuT9HAJKFJnl2n)  
-   - [2017 Playlist (YouTube)](https://www.youtube.com/playlist?list=PL95LOQw9SLWwqX2xoYidVO2YA7gknhmcx)  
+   - [June 2017 Playlist (YouTube)](https://www.youtube.com/playlist?list=PL95LOQw9SLWwqX2xoYidVO2YA7gknhmcx)
+   - [November 2017 Playlist (YouTube)](https://www.youtube.com/playlist?list=PLn7dsvRdQEfGvHBILiQDsrkVf3oo0-shO) 
 
 
 ## Free  
