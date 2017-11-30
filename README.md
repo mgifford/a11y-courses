@@ -22,6 +22,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 - [WebAIM's Web Accessibility Training](http://webaim.org/training/)  
 - [UX Foundations: Accessibility](https://www.lynda.com/Accessibility-tutorials/Foundations-UX-Accessibility/435008-2.html)  
 - [Online Learning Consortium (OLC) Institute for Professional Development Accessibility Track](https://onlinelearningconsortium.org/learn/olc-new-institute-schedule/#track-Accessibility)
+- [Styles in MS Word: A Primer for Accessible Document Design, the Course!](http://www.karlencommunications.com/StylesInWordCourse.html)
 
 ## Conferences & Events
 - [Accessing Higher Ground](http://accessinghigherground.org)  
@@ -85,7 +86,6 @@ Also refer to this [other meetup list](http://www.lireo.com/accessibility-inclus
 - [Media Access Australia (W3C Member): Professional Certificate in Web Accessibility](https://www.mediaaccess.org.au/digitalaccessibilityservices/services/education-and-training/pcwa/)
 - [Mohawk College: Ontario College Graduate Certificate in Accessible Media Production](https://www.mohawkcollege.ca/programs/graduate-studies/accessible-media-production-390)
 - [International Association of Accessibility Professionals (IAAP) Certification](http://www.accessibilityassociation.org/certification)
-
 
 ## Vendor Materials
 - [Chrome & Chrome OS Accessibility (on YouTube)](https://www.youtube.com/playlist?list=PL5aqr5w5fRe7QWzXhqxrilIVduWEmLHM2)  
