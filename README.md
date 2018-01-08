@@ -25,6 +25,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 - [Styles in MS Word: A Primer for Accessible Document Design, the Course!](http://www.karlencommunications.com/StylesInWordCourse.html)
 
 ## Conferences & Events
+- [A11Y Project Events](https://a11yproject.com/events.html)
 - [Accessing Higher Ground](http://accessinghigherground.org)  
 - [Knowbility's AccessU](https://www.knowbility.org/education/accessu/) 
 - [CSUN Assistive Technology Conference](http://www.csun.edu/cod/conference)  
@@ -52,7 +53,8 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 
 ## Webinars  
 - [3playmedia](http://www.3playmedia.com/resources/webinars/)  
-- [Accessibility Association](http://www.accessibilityassociation.org/content.asp?contentid=161)  
+- [Accessibility Association](http://www.accessibilityassociation.org/content.asp?contentid=161)
+- [Accessibility Talks (A11Y Talks)](https://www.youtube.com/channel/UC__nH6oZrFXcUevljYJKbsw)  
 
 
 ## Educational Videos  
