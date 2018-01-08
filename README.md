@@ -79,7 +79,8 @@ Also refer to this [other meetup list](http://www.lireo.com/accessibility-inclus
 - [San Francisco](https://www.meetup.com/a11ybay/)  
 - [Seattle Area Accessibility & Inclusive Design](https://www.meetup.com/a11ysea/)  
 - [Toronto a11yTO](https://www.meetup.com/a11yTo/)  
-- [role=drinks](https://www.roledrinks.com/)  
+- [role=drinks](https://www.roledrinks.com/) 
+- [role=drinks Hamburg](https://www.roledrinks.de/) 
 
 
 ## Certificates
