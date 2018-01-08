@@ -80,7 +80,7 @@ Also refer to this [other meetup list](http://www.lireo.com/accessibility-inclus
 - [Quebec City a11yQC](http://a11yqc.org/)
 - [Raleigh-Durham a11yRTP](https://www.meetup.com/a11yRTP/)
 - [role=drinks](https://www.roledrinks.com/)
-- [role=drinks Hamburg](https://www.roledrinks.de/)
+- [role=drinks Hamburg](http://www.roledrinks.de/)
 - [San Francisco](https://www.meetup.com/a11ybay/)
 - [Seattle Area Accessibility & Inclusive Design](https://www.meetup.com/a11ysea/)
 - [Toronto a11yTO](https://www.meetup.com/a11yTo/)
