@@ -77,6 +77,7 @@ Also refer to this [other meetup list](http://www.lireo.com/accessibility-inclus
 - [Mid-MO Web Accessibility Meetup](https://www.facebook.com/groups/1981893992043062/)
 - [New York City A11yNYC](http://a11ynyc.com/)
 - [Ottawa a11yYOW](https://www.meetup.com/a11yOttawa)
+- [Portland Accessibility and User Experience Meetup](https://www.meetup.com/Portland-Accessibility-and-User-Experience-Meetup/)
 - [Quebec City a11yQC](http://a11yqc.org/)
 - [Raleigh-Durham a11yRTP](https://www.meetup.com/a11yRTP/)
 - [role=drinks](https://www.roledrinks.com/)
