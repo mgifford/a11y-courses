@@ -68,7 +68,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 
 
 ## Meetups
-Also refer to this [other meetup list](http://www.lireo.com/accessibility-inclusive-design-in-person-groups/) maintained by Deborah Edwards-Onoro.
+Also refer to the [AccessMeetups Twitter list](https://twitter.com/webaxe/lists/accessmeetups) by Web Axe and this [other meetup list](http://www.lireo.com/accessibility-inclusive-design-in-person-groups/) by Deborah Edwards-Onoro.
 
 - [Accessibility DC](https://www.meetup.com/Accessibility-DC/)
 - [Boston Accessibility](https://www.meetup.com/a11yBos/) 
