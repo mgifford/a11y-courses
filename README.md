@@ -29,6 +29,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 ## Conferences & Events
 - [A11Y Project Events](https://a11yproject.com/events.html)
 - [Accessing Higher Ground](http://accessinghigherground.org)
+- [Accessible by Design](https://accessiblebydesign.org)
 - [CSUN Assistive Technology Conference](http://www.csun.edu/cod/conference)
 - [Environments for Humans' Accessibility Summit](http://environmentsforhumans.com/2017/accessu-summit/)
 - [Inclusive Design 24 (#ID24)](http://www.inclusivedesign24.org/)
