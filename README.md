@@ -52,7 +52,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 - [Start Building Accessible Web Applications Today, by Marcy Sutton](https://egghead.io/courses/start-building-accessible-web-applications-today)
 - [Teach Access](https://teachaccess.github.io/tutorial/)
 - [UCBerkeley Intro to Course #Accessibility](http://bit.ly/coursea11y) - 6 modules on designing accessible content
-
+- [Open.edu: Assistive technologies and online learning](http://www.open.edu/openlearn/education-development/assistive-technologies-and-online-learning/content-section-0)
 
 ## Webinars  
 - [3playmedia](http://www.3playmedia.com/resources/webinars/)
