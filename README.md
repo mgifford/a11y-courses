@@ -53,6 +53,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 - [Teach Access](https://teachaccess.github.io/tutorial/)
 - [UCBerkeley Intro to Course #Accessibility](http://bit.ly/coursea11y) - 6 modules on designing accessible content
 - [Open.edu: Assistive technologies and online learning](http://www.open.edu/openlearn/education-development/assistive-technologies-and-online-learning/content-section-0)
+- [Ryerson University & Canvas.net: Web Accessibility for Developers](https://www.canvas.net/browse/ryersonu/courses/adv-web-accessibility)
 
 ## Webinars  
 - [3playmedia](http://www.3playmedia.com/resources/webinars/)
