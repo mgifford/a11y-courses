@@ -51,9 +51,10 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 - [Professional Web #A11y Auditing Made Easy](https://de.ryerson.ca/wa/)
 - [Start Building Accessible Web Applications Today, by Marcy Sutton](https://egghead.io/courses/start-building-accessible-web-applications-today)
 - [Teach Access](https://teachaccess.github.io/tutorial/)
-- [UCBerkeley Intro to Course #Accessibility](http://bit.ly/coursea11y) - 6 modules on designing accessible content
+- [UC Berkeley Intro to Course #Accessibility](http://bit.ly/coursea11y) - 6 modules on designing accessible content
 - [Open.edu: Assistive technologies and online learning](http://www.open.edu/openlearn/education-development/assistive-technologies-and-online-learning/content-section-0)
 - [Ryerson University & Canvas.net: Web Accessibility for Developers](https://www.canvas.net/browse/ryersonu/courses/adv-web-accessibility)
+- [University of Colorado Boulder & Coursera: Basics of Inclusive Design for Online Education](https://www.coursera.org/learn/inclusive-design)
 
 ## Webinars  
 - [3playmedia](http://www.3playmedia.com/resources/webinars/)
