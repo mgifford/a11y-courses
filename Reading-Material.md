@@ -16,7 +16,8 @@ Blogs, books, and additional resources primarily focused on accessibility.
 - [Just Ask: Integrating Accessibility Throughout Design](http://www.uiaccess.com/accessucd/) 
 - [iOS Accessibility Handbook](https://leanpub.com/iosaccessibility) by Luis Abreu
 - [Ensuring Digital Accessibility through Process and Policy](https://www.elsevier.com/books/ensuring-digital-accessibility-through-process-and-policy/lazar/978-0-12-800646-7) by Jonathan Lazar Daniel Goldstein Anne Taylor
-- [Digital Outcasts: Moving Technology Forward without Leaving People Behind](http://digital-outcasts.com/) by Kel Smith 
+- [Digital Outcasts: Moving Technology Forward without Leaving People Behind](http://digital-outcasts.com/) by Kel Smith
+
 
 ## Blogs
 - [a11y wins](https://a11ywins.tumblr.com/)  
@@ -25,6 +26,7 @@ Blogs, books, and additional resources primarily focused on accessibility.
 - [Karl Groves](http://www.karlgroves.com/blog/)  
 - [Leonie Watson](https://tink.uk/)
 - [Level Access](https://www.levelaccess.com/blog/)
+- [Microassist](https://www.microassist.com/digital-accessibility/)
 - [Simply Accessible](http://simplyaccessible.com/articles/)
 - [The Paciello Group](https://www.paciellogroup.com/blog/)  
 - [WebAIM](http://webaim.org/blog/)
@@ -42,10 +44,12 @@ Blogs, books, and additional resources primarily focused on accessibility.
 
 ## Guidelines & Checklists  
 - [IBM Accessibility Checklist](https://www-03.ibm.com/able/guidelines/ci162/accessibility_checklist.html)  
-- [VOX Media Accessibility Guidelines](http://accessibility.voxmedia.com/)  
+- [Microassist Digital Accessibility Checklist](https://www.microassist.com/digital-accessibility/digital-accessibility-checklist/) 
+- [VOX Media Accessibility Guidelines](http://accessibility.voxmedia.com/)
 
 
 ## Newsletters / Mailing Lists / Slack
+- [Accessibility in the News](https://www.microassist.com/digital-access/news/) 
 - [a11y weekly](http://a11yweekly.com/)  
 - [gov.uk Accessibility Community](https://www.gov.uk/service-manual/communities/accessibility-community)  
 - [The Web Design Update](https://groups.google.com/a/d.umn.edu/forum/?hl=en#!forum/webdev)  
