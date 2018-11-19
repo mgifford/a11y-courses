@@ -21,6 +21,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 - [Pluralsight - Making a Web Form Accessible](https://www.pluralsight.com/courses/web-form-accessible)  
 - [Pluralsight - Meeting Web Accessibility Guidelines (Section 508/ WCAG 2.0)](https://www.pluralsight.com/courses/web-accessibility-meeting-guidelines) 
 - [Styles in MS Word: A Primer for Accessible Document Design, the Course!](http://www.karlencommunications.com/StylesInWordCourse.html)
+- [Siteimprove Academy](https://siteimprove.com/en-ca/services/e-learning-courses/)
 - [Team Treehouse - Web Accessibility Compliance](https://teamtreehouse.com/library/web-accessibility-compliance)
 - [UX Foundations: Accessibility](https://www.lynda.com/Accessibility-tutorials/Foundations-UX-Accessibility/435008-2.html)
 - [WebAIM's Web Accessibility Training](http://webaim.org/training/)
