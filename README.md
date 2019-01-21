@@ -55,6 +55,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 - [Open.edu: Assistive technologies and online learning](http://www.open.edu/openlearn/education-development/assistive-technologies-and-online-learning/content-section-0)
 - [Ryerson University & Canvas.net: Web Accessibility for Developers](https://www.canvas.net/browse/ryersonu/courses/adv-web-accessibility)
 - [University of Colorado Boulder & Coursera: Basics of Inclusive Design for Online Education](https://www.coursera.org/learn/inclusive-design)
+- [Minnesota IT Services: Accessible Word Document Training](https://mn.gov/mnit/about-mnit/accessibility/training/)
 
 ## Webinars  
 - [3playmedia](http://www.3playmedia.com/resources/webinars/)
