@@ -78,6 +78,7 @@ Also refer to the [AccessMeetups Twitter list](https://twitter.com/webaxe/lists/
 - [Boston Accessibility](https://www.meetup.com/a11yBos/) 
 - [Buffalo Accessibility Meet-up (Buffa11y)](http://buffa11y.org)
 - [Chicago Digital Accessibility and Inclusive Design](https://www.meetup.com/a11ychi/) 
+- [London Accessibility Meetup](https://www.meetup.com/London-Accessibility-Meetup/)
 - [Montreal's web accessibility & inclusive design meet-up](https://www.meetup.com/a11ymtl/)
 - [Mid-MO Web Accessibility Meetup](https://www.facebook.com/groups/1981893992043062/)
 - [New York City A11yNYC](http://a11ynyc.com/)
