@@ -18,6 +18,7 @@ Blogs, books, and additional resources primarily focused on accessibility.
 - [iOS Accessibility Handbook](https://leanpub.com/iosaccessibility) by Luis Abreu
 - [Ensuring Digital Accessibility through Process and Policy](https://www.elsevier.com/books/ensuring-digital-accessibility-through-process-and-policy/lazar/978-0-12-800646-7) by Jonathan Lazar Daniel Goldstein Anne Taylor
 - [Digital Outcasts: Moving Technology Forward without Leaving People Behind](http://digital-outcasts.com/) by Kel Smith 
+- [Web Accessibility for Developers](https://pressbooks.library.ryerson.ca/wafd/) by Ryerson University - Available Under a Creative Commons License
 
 ## Blogs
 - [a11y wins](https://a11ywins.tumblr.com/)  
