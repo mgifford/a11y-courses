@@ -10,6 +10,8 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 - [University of Illinois DRES IT Accessibility Badging Program](http://disability.illinois.edu/academic-support/accessible-it-group/badging)
 - [University of Illinois Information Accessibility Design and Policy (IADP): **Certificate Program**](https://online.illinois.edu/online-programs/graduate-certificates/information-accessibility-design-policy?iadp)
 - [University of South Australia: **Professional Certificate** in Web Accessibility](http://www.unisa.edu.au/education-arts-and-social-sciences/communication-international-studies-and-languages/pcwa/)
+- [Ryerson University: The Chang School: Web Accessibility Auditing and Reporting](https://continuing.ryerson.ca/search/publicCourseSearchDetails.do?method=load&courseId=258041&selectedProgramAreaId=18614&selectedProgramStreamId=18642)
+- [Ryerson University: The Chang School: Web Accessibility for Developers](https://continuing.ryerson.ca/search/publicCourseSearchDetails.do?method=load&courseId=258107)
 
 
 ## Private (Paid)
@@ -38,6 +40,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
    - [June 2017 Playlist (YouTube)](https://www.youtube.com/playlist?list=PL95LOQw9SLWwqX2xoYidVO2YA7gknhmcx)
    - [November 2017 Playlist (YouTube)](https://www.youtube.com/playlist?list=PLn7dsvRdQEfGvHBILiQDsrkVf3oo0-shO)
 - [Knowbility's AccessU](https://www.knowbility.org/education/accessu/)
+- [Web4All](http://w4a.info)
 
 
 ## Free
