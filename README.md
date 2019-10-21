@@ -16,10 +16,10 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 
 ## Private (Paid)
 - [4syllables's Accessibility for web writers](http://4syllables.com.au/training/web-writing-accessibility/)
-- [AccessIQ Professional Resources](http://www.accessiq.org/professional-resources)
 - [Deque University](https://www.deque.com/services/deque-university/)
 - [Level Access (previously SSB Bart Group) - Access University](https://www.levelaccess.com/products/access-university/)
 - [Online Learning Consortium (OLC) Institute for Professional Development Accessibility Track](https://onlinelearningconsortium.org/learn/olc-new-institute-schedule/#track-Accessibility)
+- [Pacellio Group - TPG Tutor](https://www.paciellogroup.com/products/tpg-tutor/)
 - [Pluralsight - Making a Web Form Accessible](https://www.pluralsight.com/courses/web-form-accessible)  
 - [Pluralsight - Meeting Web Accessibility Guidelines (Section 508/ WCAG 2.0)](https://www.pluralsight.com/courses/web-accessibility-meeting-guidelines) 
 - [Styles in MS Word: A Primer for Accessible Document Design, the Course!](http://www.karlencommunications.com/StylesInWordCourse.html)
@@ -47,7 +47,6 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 - [Accessibility MOOC](http://accessibility.mrooms.net/#a11y) - Inclusive Online Course Design
 - [Digital Accessibility as a Business Practice](https://de.ryerson.ca/wa/business/)
 - [Future Learn - Digital Accessibility: Enabling Participation in the Information Society](https://www.futurelearn.com/courses/digital-accessibility)
-- [Google's Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course)
 - [Google's Udacity Accessibility course (text version)](https://developers.google.com/web/fundamentals/accessibility/)
 - [Google's Udacity Web Accessibility - Developing with Empathy](https://www.udacity.com/course/web-accessibility--ud891)
 - [Microsoft's Training teachers to author accessible content ](https://education.microsoft.com/courses-and-resources/courses/training-teachers-to-author-accessible-content)
