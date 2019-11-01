@@ -30,7 +30,9 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 
 
 ## Conferences & Events
-- [A11Y Project Events](https://a11yproject.com/events.html)
+- [A11Y Project Events](https://a11yproject.com/events/#upcoming)
+    - [A11yTO](https://a11yto.com)
+    - [A11yCamp Australia](https://a11ycamp.org.au/)
 - [Accessing Higher Ground](http://accessinghigherground.org)
 - [Accessible by Design](https://accessiblebydesign.org)
 - [CSUN Assistive Technology Conference](http://www.csun.edu/cod/conference)
@@ -42,6 +44,9 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
    - [November 2017 Playlist (YouTube)](https://www.youtube.com/playlist?list=PLn7dsvRdQEfGvHBILiQDsrkVf3oo0-shO)
 - [Knowbility's AccessU](https://www.knowbility.org/education/accessu/)
 - [Web4All](http://w4a.info)
+- [Web Accessibility & Inclusive Design - Sydney ](https://www.meetup.com/Sydney-Web-Accessibility-Inclusive-Design/)
+- [Web Accessibility & Inclusive Design - Melbourne](https://www.meetup.com/Melbourne-Web-Accessibility-Inclusive-Design/)
+- [Digital Accessibility and Inclusive Design Meetup - Auckland](https://www.meetup.com/Auckland-Digital-Accessibility-and-Inclusive-Design-Meetup/)
 
 
 ## Free
