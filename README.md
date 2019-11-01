@@ -46,10 +46,6 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
    - [2014 Playlist (YouTube)](https://www.youtube.com/playlist?list=PL95LOQw9SLWzKYfjwmx6edsP1Exs83CKc)
 - [Knowbility's AccessU](https://www.knowbility.org/education/accessu/)
 - [Web4All](http://w4a.info)
-- [Web Accessibility & Inclusive Design - Sydney ](https://www.meetup.com/Sydney-Web-Accessibility-Inclusive-Design/)
-- [Web Accessibility & Inclusive Design - Melbourne](https://www.meetup.com/Melbourne-Web-Accessibility-Inclusive-Design/)
-- [Digital Accessibility and Inclusive Design Meetup - Auckland](https://www.meetup.com/Auckland-Digital-Accessibility-and-Inclusive-Design-Meetup/)
-
 
 ## Free
 - [Accessibility MOOC](http://accessibility.mrooms.net/#a11y) - Inclusive Online Course Design
@@ -66,6 +62,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 - [Ryerson University & Canvas.net: Web Accessibility for Developers](https://www.canvas.net/browse/ryersonu/courses/adv-web-accessibility)
 - [University of Colorado Boulder & Coursera: Basics of Inclusive Design for Online Education](https://www.coursera.org/learn/inclusive-design)
 - [Minnesota IT Services: Accessible Word Document Training](https://mn.gov/mnit/about-mnit/accessibility/training/)
+- [UNICEF Agora Training on Web Accessibility](https://agora.unicef.org/local/search/index.php?resetsession=1&search=accessibility)
 
 ## Webinars  
 - [3playmedia](http://www.3playmedia.com/resources/webinars/)
@@ -100,8 +97,10 @@ Also refer to the [AccessMeetups Twitter list](https://twitter.com/webaxe/lists/
 - [role=drinks Hamburg](http://www.roledrinks.de/)
 - [San Francisco](https://www.meetup.com/a11ybay/)
 - [Seattle Area Accessibility & Inclusive Design](https://www.meetup.com/a11ysea/)
-- [Toronto a11yTO](https://www.meetup.com/a11yTo/)
-
+- [Toronto a11yTO](https://www.meetup.com/a11yTo/) - both a meetup and a conference
+- [Web Accessibility & Inclusive Design - Sydney ](https://www.meetup.com/Sydney-Web-Accessibility-Inclusive-Design/)
+- [Web Accessibility & Inclusive Design - Melbourne](https://www.meetup.com/Melbourne-Web-Accessibility-Inclusive-Design/)
+- [Digital Accessibility and Inclusive Design Meetup - Auckland](https://www.meetup.com/Auckland-Digital-Accessibility-and-Inclusive-Design-Meetup/)
 
 ## Certificates
 - [International Association of Accessibility Professionals (IAAP) Certification](http://www.accessibilityassociation.org/certification)
@@ -116,6 +115,7 @@ Also refer to the [AccessMeetups Twitter list](https://twitter.com/webaxe/lists/
 ## For More Information
 - [Books, tutorials & blogs here](https://github.com/mgifford/a11y-courses/blob/master/Reading-Material.md)
 - [Follow these people on Twitter](https://github.com/joe-watkins/top-people-to-follow-in-web-accessibility)
+- [A11ySlack Slack Channel](https://developer.paciellogroup.com/blog/2015/07/anybody-can-be-an-a11y-slacker/)
 
 
 ### Thanks
