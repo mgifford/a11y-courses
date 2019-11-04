@@ -119,4 +119,4 @@ Also refer to the [AccessMeetups Twitter list](https://twitter.com/webaxe/lists/
 
 
 ### Thanks
-Appreciate all the links from [Jennifer Sutton](https://twitter.com/jsutt) and all the help she's given to me (and others in the community) over the years. Also thanks to [Alistair Duggin](https://twitter.com/dugboticus) for his [list of resources](https://github.com/alphagov/accessibility-guidance/wiki/resources).
+Appreciate the base set of links from [Jennifer Sutton](https://twitter.com/jsutt) and all the help she's given to me (and others in the community) over the years. Also thanks to [Alistair Duggin](https://twitter.com/dugboticus) for his [list of resources](https://github.com/alphagov/accessibility-guidance/wiki/resources). Thanks also to [Renata Zanetti](https://twitter.com/Zanetti_R) for contributing more.
