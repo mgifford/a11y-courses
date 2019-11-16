@@ -16,7 +16,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 
 ## Private (Paid)
 - [4syllables's Accessibility for web writers](http://4syllables.com.au/training/web-writing-accessibility/)
-- [Deque University](https://www.deque.com/services/deque-university/)
+- [Deque University](https://www.deque.com/services/deque-university/) - Note: [PwD are eligible for scholarships](https://dequeuniversity.com/scholarships)
 - [Level Access (previously SSB Bart Group) - Access University](https://www.levelaccess.com/products/access-university/)
 - [Online Learning Consortium (OLC) Institute for Professional Development Accessibility Track](https://onlinelearningconsortium.org/learn/olc-new-institute-schedule/#track-Accessibility)
 - [Pacellio Group - TPG Tutor](https://www.paciellogroup.com/products/tpg-tutor/)
