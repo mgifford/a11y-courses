@@ -35,6 +35,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
     - [A11yCamp Australia](https://a11ycamp.org.au/)
 - [Accessing Higher Ground](http://accessinghigherground.org)
 - [Accessible by Design](https://accessiblebydesign.org)
+- [ASSETS: ACM SIGACCESS Conference on Computers and Accessibility](https://assets19.sigaccess.org/)
 - [CSUN Assistive Technology Conference](http://www.csun.edu/cod/conference)
 - [Environments for Humans' Accessibility Summit](http://environmentsforhumans.com/2017/accessu-summit/)
 - [Inclusive Design 24 (#ID24)](http://www.inclusivedesign24.org/):
