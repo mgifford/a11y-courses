@@ -12,6 +12,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 - [University of South Australia: **Professional Certificate** in Web Accessibility](https://unisa.edu.au/education-arts-and-social-sciences/school-of-creative-industries/degrees/short-programs/professional-certificate-in-web-accessibility/)
 - [Ryerson University: The Chang School: Web Accessibility Auditing and Reporting](https://continuing.ryerson.ca/search/publicCourseSearchDetails.do?method=load&courseId=258041&selectedProgramAreaId=18614&selectedProgramStreamId=18642)
 - [Ryerson University: The Chang School: Web Accessibility for Developers](https://continuing.ryerson.ca/search/publicCourseSearchDetails.do?method=load&courseId=258107)
+- [University of Wisconsin-Milwaukee: Certificate in Assistive Technology & Accessible Design](https://uwm.edu/healthsciences/academics/certificate-in-assistive-technology-accessible-design/)
 
 
 ## Private (Paid)
