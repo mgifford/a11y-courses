@@ -125,6 +125,8 @@ Also refer to the [AccessMeetups Twitter list](https://twitter.com/webaxe/lists/
 - [Follow these people on Twitter](https://github.com/joe-watkins/top-people-to-follow-in-web-accessibility)
 - [A11ySlack Slack Channel](https://developer.paciellogroup.com/blog/2015/07/anybody-can-be-an-a11y-slacker/)
 
+## Other Lists
+- [Digital A11y: Digital Accessibility Courses Roundup](https://www.digitala11y.com/digital-accessibility-courses-roundup/)
 
 ### Thanks
 Appreciate the base set of links from [Jennifer Sutton](https://twitter.com/jsutt) and all the help she's given to me (and others in the community) over the years. Also thanks to [Alistair Duggin](https://twitter.com/dugboticus) for his [list of resources](https://github.com/alphagov/accessibility-guidance/wiki/resources). Thanks also to [Renata Zanetti](https://twitter.com/Zanetti_R) for contributing more.
