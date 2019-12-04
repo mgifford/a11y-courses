@@ -57,7 +57,11 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 - [Microsoft's Training teachers to author accessible content ](https://education.microsoft.com/courses-and-resources/courses/training-teachers-to-author-accessible-content)
 - [Professional Web #A11y Auditing Made Easy](https://de.ryerson.ca/wa/)
 - [Start Building Accessible Web Applications Today, by Marcy Sutton](https://egghead.io/courses/start-building-accessible-web-applications-today)
-- [Teach Access](https://teachaccess.github.io/tutorial/)
+- [Teach Access](http://teachaccess.org/) Study Away Silicon Valley - In partnership with [PEAT](https://www.peatworks.org/)
+- [Teach Access Tutorial](https://teachaccess.github.io/tutorial/)
+
+Study Away Silicon Valley
+
 - [UC Berkeley Intro to Course #Accessibility](http://bit.ly/coursea11y) - 6 modules on designing accessible content
 - [Open.edu: Assistive technologies and online learning](http://www.open.edu/openlearn/education-development/assistive-technologies-and-online-learning/content-section-0)
 - [Ryerson University & Canvas.net: Web Accessibility for Developers](https://www.canvas.net/browse/ryersonu/courses/adv-web-accessibility)
