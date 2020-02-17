@@ -49,6 +49,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
    - [2014 Playlist (YouTube)](https://www.youtube.com/playlist?list=PL95LOQw9SLWzKYfjwmx6edsP1Exs83CKc)
 - [Knowbility's AccessU](https://www.knowbility.org/education/accessu/)
 - [Web4All](http://w4a.info)
+- [ZeroCon](https://conference.zeroproject.org/)
 
 ## Free
 - [Accessibility MOOC](http://accessibility.mrooms.net/#a11y) - Inclusive Online Course Design
