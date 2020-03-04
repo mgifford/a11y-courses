@@ -1,7 +1,20 @@
+- **January is Glaucoma Awareness Month**
 - Jan 4 - World Braille Day
-- April 11 - World Parkinson’s Day, 
+- February 10 - International Epilepsy Day 2020
+- **April is Crrtical Visual Impairment (CVI) Literacy Awareness Month**
+- April 11 - World Parkinson’s Day
+- **May is Healthy Vision Month**
+- **May is Blind Awareness Month**
 - May 21 2020 (3rd Thursday each May) - GAAD
+- **June is Deaf-Blind Awareness Month**
+- June 20 - Nystagmus Awareness Day
+- **July is Eye Injury Prevention Month**
+- **August is August is Cataract Awareness**
+- **September is National Guide Dog Month**
+- September 6 - International Color Blind Awareness Day
 - September 23  - International Day of Sign Languages (IDSL) 
-- 6 October 6, 2020 - World Cerebral Palsy Day
+- **October is World Blindness Awareness Month**
+- October 6, 2020 - World Cerebral Palsy Day
+- October 16 - White Cane Day
 - October 8, 2020 (2nd Thursday of October) - World Sight Day (WSD)
 - Dec 3 - International Day of Persons with Disabilities
