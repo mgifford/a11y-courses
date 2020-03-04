@@ -14,6 +14,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 - [Ryerson University: The Chang School: Web Accessibility for Developers](https://continuing.ryerson.ca/search/publicCourseSearchDetails.do?method=load&courseId=258107)
 - [University of Wisconsin-Milwaukee: Certificate in Assistive Technology & Accessible Design](https://uwm.edu/healthsciences/academics/certificate-in-assistive-technology-accessible-design/)
 - [DePaul University: Accessibility and Design for Diverse Users](https://www.cdm.depaul.edu/academics/Pages/current/Requirements-MS-in-Human-Computer-Interaction.aspx)
+- [OCAD University: Master of Design in Inclusive Design](https://www.ocadu.ca/academics/graduate-studies/inclusive-design)
 
 
 ## Private (Paid)
@@ -63,6 +64,7 @@ Courses, webinars, educational videos, and more, offered in web accessibility.
 - [Ryerson University: Introduction to Web Accessibility](https://de.ryerson.ca/wa/introduction/) - Start date TBD 
 - [Teach Access](http://teachaccess.org/) Study Away Silicon Valley - In partnership with [PEAT](https://www.peatworks.org/)
 - [Teach Access Tutorial](https://teachaccess.github.io/tutorial/)
+- [OpenU UK Accessibility of eLearning](https://www.open.edu/openlearn/education-development/education-careers/accessibility-elearning/content-section-0?active-tab=content-tab)
 
 Study Away Silicon Valley
 
