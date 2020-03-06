@@ -1,3 +1,5 @@
+# [NOTE: Future Updates Will Be Done Here!](https://github.com/accessibility/a11y-courses)
+
 # Accessibility Courses
 Courses, webinars, educational videos, and more, offered in web accessibility.
 
